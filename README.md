@@ -1,9 +1,9 @@
-# Note Painting
+# Note Painting©
 
 A system of structural units, relations, and transformations.
 No decoration. No illustration. Pure structure.
 
-# Note Painting
+# Note Painting©
 
 Note Painting (NP) to język operacji wizualnych.  
 Obraz nie jest tu rysowany ręcznie — jest **wynikiem wykonania programu**.  
