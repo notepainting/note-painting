@@ -17,4 +17,3 @@ Results of applying relations and transformations.
 
 ## 6. System
 The complete set of rules and possibilities.
-
